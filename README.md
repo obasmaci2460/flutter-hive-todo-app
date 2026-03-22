@@ -56,4 +56,4 @@ The UI natively adapts to both English and Turkish, showcasing the dynamic local
 
 1. **Clone the repository / Repoyu klonlayın:**
 ```bash
-git clone [https://github.com/obasm/flutter-hive-todo-app.git](https://github.com/obasm/flutter-hive-todo-app.git)
+git clone https://github.com/obasm/flutter-hive-todo-app.git
