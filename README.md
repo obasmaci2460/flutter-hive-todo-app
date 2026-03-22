@@ -57,3 +57,14 @@ The UI natively adapts to both English and Turkish, showcasing the dynamic local
 1. **Clone the repository / Repoyu klonlayın:**
 ```bash
 git clone https://github.com/obasm/flutter-hive-todo-app.git
+```
+
+2. **Install dependencies / Bağımlılıkları yükleyin:**
+```bash
+flutter pub get
+```
+
+3. **Run the app / Uygulamayı çalıştırın:**
+```bash
+flutter run
+```
