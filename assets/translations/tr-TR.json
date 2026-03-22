@@ -1,0 +1,10 @@
+{
+    "app_name":"Flutter ile Not Defteri",
+    "appbar_title":"Sen bugün ne yapıcaksın ?",
+    "add_task":"Görev nedir ?",
+    "search_is_empty":"Aramada hiçbir şey bulunamadı",
+    "search_title":"Ara",
+    "delete_task":"Bu görev silindi",
+    "choose_a_date":"Tarih seç",
+    "date_cancellation":"İptal"
+}

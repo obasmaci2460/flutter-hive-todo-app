@@ -1,0 +1,10 @@
+{
+    "app_name":"Notepad with Flutter",
+    "appbar_title":"What will you do today ?",
+    "add_task":"What is the task ?",
+    "search_is_empty":"Nothing was found in the search",
+    "search_title":"Search",
+    "delete_task":"This task was deleted",
+    "choose_a_date":"Choose a date",
+    "date_cancellation":"Cancel"
+}
