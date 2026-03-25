@@ -1,12 +1,12 @@
 # 📝 Flutter Task Manager with Hive
 
-A fast, offline-first to-do application built with Flutter. This project demonstrates clean architecture, efficient local storage, and dynamic multi-language support.
+A fast, offline-first to-do application built with Flutter. This project demonstrates clean architecture, efficient local storage, and persistent multi-language support.
 
 <details>
 <summary><b>🇹🇷 Türkçe Açıklama İçin Tıklayın</b></summary>
 <br>
 
-Flutter ile geliştirilmiş, hızlı ve öncelikli olarak çevrimdışı (offline-first) çalışan bir not defteri uygulamasıdır. Bu proje; temiz mimari prensiplerini, verimli yerel veri depolamayı ve dinamik çoklu dil desteğini göstermektedir.
+Flutter ile geliştirilmiş, hızlı ve öncelikli olarak çevrimdışı (offline-first) çalışan bir not defteri uygulamasıdır. Bu proje; temiz mimari prensiplerini, verimli yerel veri depolamayı ve kullanıcı tercihlerini koruyan (persistent) çoklu dil desteğini göstermektedir.
 
 </details>
 
@@ -40,12 +40,12 @@ Flutter ile geliştirilmiş, hızlı ve öncelikli olarak çevrimdışı (offlin
 
 ## 📸 Screenshots & Localization Preview
 
-The UI natively adapts to both English and Turkish, showcasing the dynamic localization capability.
+The UI natively adapts to both English and Turkish, showcasing the seamless localization capability.
 
 | 1. Main Dashboard (English UI) | 2. Adding a Task (Turkish UI) |
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/3134a8cd-a773-416c-a04b-02282d0dc7ab" width="250"> | <img src="https://github.com/user-attachments/assets/662b6919-89e7-4b3f-92f3-0edb40185e05" width="250"> |
-| *Clean UI showing pending and completed tasks.* | *Dynamic localization during task entry.* |
+| *Clean UI showing pending and completed tasks.* | *Localized interface during task entry.* |
 
 | 3. Time Picker (Turkish UI) | 4. Search Functionality (English UI) |
 |:---:|:---:|
